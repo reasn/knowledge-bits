@@ -1,6 +1,6 @@
 # Communication
 
-**Legend:** 🐾 Pattern, 💡Realization
+**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme
 
 ### General
 
