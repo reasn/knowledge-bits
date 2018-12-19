@@ -10,5 +10,9 @@
 
 ### First Contact
 
-🐾 E.g. when interviewed for a Job: Let me tell you what I know and you tell me how accurate it is. Present what you thoroughly prepared for an hour, anticipate the companies strategy. - unknown application at Wunder Mobility
+🐾 E.g. when interviewed for a Job: Let me tell you what I know and you tell me how accurate it is. Present what you thoroughly prepared for an hour, anticipate the companies strategy. - unknown application at Wunder Mobility.
+
+### Being interviewed for a job
+
+🐾 Ask "what would you add" / "what was missing in my response" after responding to factual questions. - Various interviews / Alexander Thiel
 
