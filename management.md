@@ -8,7 +8,7 @@
 
 💡 There are three kinds of managers: the shit umbrella, the shit funnel and the shit fan. - [Caterina Fake](https://twitter.com/caterina/status/6715084157)
 
-🐾 Tell people that I believe and them AND why I believe in them - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
+🐾 Tell people that I **believe** in them and **why** I believe in them - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 
 🐾 Focus on the right problems at the right time, different things come for free at different points - [hMeri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 
