@@ -16,3 +16,9 @@
 
 🐾 Ask "what would you add" / "what was missing in my response" after responding to factual questions. - Various interviews / Alexander Thiel
 
+🐾 Ask whether your response answered the question. - Various interviews / Alexander Thiel
+
+🐾 When being interviewed, ask \(fitting\) personal questions to destroy the wall and get on eye level. - Various interviews / Alexander Thiel
+
+🐾 Great question to dig deeper: What is each top managers worst weakness and greatest strength? - [Kari Penttilä](https://www.linkedin.com/in/kari-penttil%C3%A4-0815a/)
+

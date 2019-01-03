@@ -30,6 +30,8 @@
 
 🐾 Repeat yourself at least 7 times: Others still need to hear beyond the point when you're worried you've been repetitive - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 
+🐾 Managers don't quarrel in front of the team - [Kari Penttilä](https://www.linkedin.com/in/kari-penttil%C3%A4-0815a/)
+
 ### Hiring
 
 💡 Best predictor for being able to recruit and retain the people you want is somebody's ability to agree with the statement "someone like me can be successful here"  - [Meri Williams](https://vimeo.com/99813968)
