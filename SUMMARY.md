@@ -4,4 +4,5 @@
 * [Learning and Feedback](learning-and-feedback.md)
 * [Communication](communication.md)
 * [Management](management.md)
+* [Tech Management](tech-management.md)
 
