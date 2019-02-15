@@ -10,7 +10,7 @@ This is a collection of inspirational bits of knowledge, more or less properly c
 
 ### 🐾 Pattern
 
-This is a small, reusable piece of behavior. It may be specific to certain situations and is supposed to deliver some kind of value. Related to [software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern).
+This is a small, reusable piece of behavior. It may be specific to certain situations and is supposed to deliver some kind of value. Related to [software design patterns](https://en.wikipedia.org/wiki/Software_design_pattern) and [liberating structures](http://www.liberatingstructures.com/).
 
 ### 💡 Realization
 
