@@ -5,4 +5,5 @@
 * [Communication](communication.md)
 * [Management](management.md)
 * [Tech Management](tech-management.md)
+* [Tiny Hacks](tiny-hacks.md)
 
