@@ -4,13 +4,15 @@
 
 ### General
 
+💡 Use reversibility as your prime criterion in determining how much effort to put into decisions. Don't wast time on making reversible decisions.  - [Jeff Bezos](https://www.businessinsider.de/jeff-bezos-on-type-1-and-type-2-decisions-2016-4)
+
 💡 Management = Create Space to be Awesome = Purpose + Autonomy + Mastery + Inclusion  - [Meri Williams](https://vimeo.com/99813968)
 
 💡 There are three kinds of managers: the shit umbrella, the shit funnel and the shit fan. - [Caterina Fake](https://twitter.com/caterina/status/6715084157)
 
 🐾 Tell people that I **believe** in them and **why** I believe in them - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 
-🐾 Focus on the right problems at the right time, different things come for free at different points - [hMeri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
+🐾 Focus on the right problems at the right time, different things come for free at different points - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 
 🐾 Repetitive task with more than 3 steps? Use a checklist with one column per execution, add columns on the left - Alexander
 
