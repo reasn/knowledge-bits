@@ -12,7 +12,7 @@ description: >-
 * [https://docs.google.com/spreadsheets/create](https://docs.google.com/spreadsheets/create)
 * [https://docs.google.com/presentation/create](https://docs.google.com/presentation/create)
 
-#### 👾 Pin tabs for email, calendar, task board and other key tabs
+#### 👾 Pin tabs for email, calendar, task board and other important websites
 
 * Hotkey access via CMD+1 \(depends on operating system\)
 
