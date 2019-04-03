@@ -10,6 +10,10 @@
 
 💡It's only rational to complain about the environment if there's maintained rejection of a reasonable initiative. - Alexander Thiel
 
+### Managing Knowledge
+
+🐾 Discussions should happen in artifacts: Alignment is best created by collaboratively working on a single shared document. - Alexander Thiel
+
 ### First Contact
 
 🐾 E.g. when interviewed for a Job: Let me tell you what I know and you tell me how accurate it is. Present what you thoroughly prepared for an hour, anticipate the companies strategy. - unknown application at Wunder Mobility.
