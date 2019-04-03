@@ -12,6 +12,10 @@
 
 🐾 E.g. when interviewed for a Job: Let me tell you what I know and you tell me how accurate it is. Present what you thoroughly prepared for an hour, anticipate the companies strategy. - unknown application at Wunder Mobility.
 
+### Presenting Something
+
+🐾 1. Tell me what you are going to tell me 2. Tell me 3. Tell me what you told me - unknown, learned from [Lennart Telwest](https://www.linkedin.com/in/lennart-telwest/)
+
 ### Being interviewed for a job
 
 🐾 Ask "what would you add" / "what was missing in my response" after responding to factual questions. - Various interviews / Alexander Thiel
