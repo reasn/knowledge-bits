@@ -16,6 +16,8 @@
 
 🐾 Repetitive task with more than 3 steps? Use a checklist with one column per execution, add columns on the left - Alexander
 
+💡 The demand upon a resource tends to expand to match its supply if the price is zero. Example: Work expands so as to fill the time available for its completion - [Various, including Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+
 ### Requirements Engineering
 
 🐾 MVP thinking: Question all assumptions about customer need - unknown
