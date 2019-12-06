@@ -1,6 +1,6 @@
-# Tech Management
+# Tech & Product Management
 
-**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme
+**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool
 
 💡Outsourcing companies / agencies have a "The client is always right" mindset, while product companies need teams that own the product and fight over it.
 

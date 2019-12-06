@@ -1,6 +1,6 @@
 # Management
 
-**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme
+**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool
 
 ### General
 
@@ -25,6 +25,10 @@
 🐾 Avoid writing software for solving problems - Alexander
 
 🐾 Value management: Challenge safe assumptions regularly, don't wait for external triggers. Things are easily overlooked - Alexander
+
+### Structuring Charts
+
+🔭 SWOT \(Strengths, Weaknesses, Opportunities, Threats\) Analysis - [obscure/unknown](https://en.wikipedia.org/wiki/SWOT_analysis)
 
 ### Brainstorming
 
