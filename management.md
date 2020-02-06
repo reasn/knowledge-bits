@@ -4,9 +4,9 @@
 
 ### General
 
-💡 Reversibility should be the prime criterion in determining how much effort to put into decisions. Don't wast time on making reversible decisions.  - [Jeff Bezos](https://www.businessinsider.de/jeff-bezos-on-type-1-and-type-2-decisions-2016-4)
+💡 Reversibility should be the prime criterion in determining how much effort to put into decisions. Don't wast time on making reversible decisions. - [Jeff Bezos](https://www.businessinsider.de/jeff-bezos-on-type-1-and-type-2-decisions-2016-4)
 
-💡 Management = Create Space to be Awesome = Purpose + Autonomy + Mastery + Inclusion  - [Meri Williams](https://vimeo.com/99813968)
+💡 Management = Create Space to be Awesome = Purpose + Autonomy + Mastery + Inclusion - [Meri Williams](https://vimeo.com/99813968)
 
 💡 There are three kinds of managers: the shit umbrella, the shit funnel and the shit fan. - [Caterina Fake](https://twitter.com/caterina/status/6715084157)
 

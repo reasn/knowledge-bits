@@ -6,4 +6,5 @@
 * [Management](management.md)
 * [Tech & Product Management](tech-management.md)
 * [Tiny Hacks](tiny-hacks.md)
+* [Being](being.md)
 
