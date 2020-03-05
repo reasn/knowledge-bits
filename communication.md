@@ -10,9 +10,7 @@
 
 😺 Fire and Forget: Delegated work has to be executed or reported back on by the assignee. The goal is to kill any need to track progress and create full trust into assignee. - [Stefan Richter](https://www.linkedin.com/in/smartrevolution)
 
-💡 It's only rational to complain about the environment if there's maintained rejection of a reasonable initiative. - Alexander Thiel
-
-💡 Replacing "but" with "and" doesn't depreciate what's before the "and". - not attributable
+💡It's only rational to complain about the environment if there's maintained rejection of a reasonable initiative. - Alexander Thiel
 
 ### Managing Knowledge
 

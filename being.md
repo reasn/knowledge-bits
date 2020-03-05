@@ -14,3 +14,5 @@ description: >-
 
 🐾 When unsure about a small, day-to-day choice, go with love for your fellow humans - Meme screenshot on social media
 
+💡 Find out whether you do things because of pressure or intrinsic motivation. In the latter case, applying pressure yourself or taking external pressure seriously increases stress and decreases productivity and happiness. - Alexander Thiel
+
