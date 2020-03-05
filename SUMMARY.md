@@ -5,6 +5,6 @@
 * [Communication](communication.md)
 * [Management](management.md)
 * [Tech & Product Management](tech-management.md)
-* [Tiny Hacks](tiny-hacks.md)
-* [Being](being.md)
+* [Tiny Tool Hacks](tiny-hacks.md)
+* [Life](being.md)
 
