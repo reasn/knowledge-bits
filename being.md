@@ -1,7 +1,7 @@
 ---
 description: >-
-  Things I've learned on being a human being, that is for myself and in
-  interactions with others.
+  A few things I've learned about being a human being - myself and interacting
+  with others.
 ---
 
 # Life
