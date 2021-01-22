@@ -1,8 +1,6 @@
 # Tech & Product Management
 
-**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool, 📕 Article/Book
-
-📕 Managers' schedules vs. makers' schedules and the cost of meetings: [Brilliant article by Paul Graham](http://www.paulgraham.com/makersschedule.html).
+**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool
 
 💡Outsourcing companies / agencies have a "The client is always right" mindset, while product companies need teams that own the product and fight over it.
 

@@ -26,6 +26,8 @@
 
 🐾 1. Tell me what you are going to tell me 2. Tell me 3. Tell me what you told me - unknown, learned from [Lennart Telwest](https://www.linkedin.com/in/lennart-telwest/)
 
+🐾 Design and optimize your presentation for the 3 things listeners will tell their peers when talking about it. - [Renn Vara](https://snpnet.com/)
+
 ### Being interviewed for a job
 
 🐾 Ask "what would you add" / "what was missing in my response" after responding to factual questions. - Various interviews / Alexander Thiel
