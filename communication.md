@@ -26,7 +26,7 @@
 
 🐾 1. Tell me what you are going to tell me 2. Tell me 3. Tell me what you told me - unknown, learned from [Lennart Telwest](https://www.linkedin.com/in/lennart-telwest/)
 
-🐾 Design and optimize your presentation for the 3 things listeners will tell their peers when talking about it. - [Renn Vara](https://snpnet.com/)
+🐾 Design and optimize your presentation for the 3 things listeners will tell their peers when talking about it. Keep these questions in mind: What will peers think? What could go wrong? What are the opportunities? - [Renn Vara](https://snpnet.com/)
 
 ### Being interviewed for a job
 
