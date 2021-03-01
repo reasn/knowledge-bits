@@ -20,9 +20,17 @@ Some smart person put wisdom into a sentence. Ready for you to consume, remember
 
 This is a catch-phrase that makes it easy to convey a complex meaning in an easy-to-communicate way. It reduces the mental load of remembering, discussing and applying certain useful concepts.
 
+### 🔭 Tool
+
+This is a little framework somebody came up with to solve specific types of problems. It's what you learn from coworkers, in trainings to make your life easier. It can be a type of chart, a way of structuring something or a small piece of software.
+
 ## Content
 
-* [Learning and Feedback](learning-and-feedback.md)
 * [Communication](communication.md)
 * [Management](management.md)
+* [Building Startups](books.md)
+* [Learning and Feedback](learning-and-feedback.md)
+* [Tech & Product Management](tech-management.md)
+* [Tiny Tool Hacks](tiny-hacks.md)
+* [Life](being.md)
 
