@@ -7,4 +7,5 @@
 * [Tech & Product Management](tech-management.md)
 * [Tiny Tool Hacks](tiny-hacks.md)
 * [Life](being.md)
+* [Books](books.md)
 
