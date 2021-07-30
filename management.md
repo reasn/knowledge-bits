@@ -1,6 +1,8 @@
-# Management
+---
+description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U0001F52D Tool, \U0001F4DA Article/Book"
+---
 
-**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool
+# Management
 
 ### General
 
@@ -18,13 +20,7 @@
 
 💡 The demand upon a resource tends to expand to match its supply if the price is zero. Example: Work expands so as to fill the time available for its completion - [Various, including Cyril Northcote Parkinson](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
-### Requirements Engineering
-
-🐾 MVP thinking: Question all assumptions about customer need - unknown
-
-🐾 Avoid writing software. - myself
-
-🐾 Value management: Challenge safe assumptions regularly, don't wait for external triggers. Things are easily overlooked - Alexander
+📚 "A day in the park". On problem vs. solution spaces :\) - [Kostas Kiriakakis](http://kiriakakis.net/comics/mused/a-day-at-the-park)
 
 ### Structuring Charts
 
@@ -34,15 +30,13 @@
 
 🐾 1-2-4-all - [Liberating Structures](http://www.liberatingstructures.com/1-1-2-4-all/)
 
+🐾 When brainstorming a problem: Think about 7 outlandish, completely unrealistic solutions to the problem, and then about 3 realistic ones. This unleashes more creativity and out-of-the-box-thinking - [Sean Bonner](https://www.linkedin.com/in/seanbonner/)
+
 ### Communication
 
 🐾 Repeat yourself at least 7 times: Others still need to hear beyond the point when you're worried you've been repetitive - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 
 🐾 Managers don't quarrel in front of the team - [Kari Penttilä](https://www.linkedin.com/in/kari-penttil%C3%A4-0815a/)
 
-### Hiring
 
-💡 Best predictor for being able to recruit and retain the people you want is somebody's ability to agree with the statement "someone like me can be successful here"  - [Meri Williams](https://vimeo.com/99813968)
-
-💡 "Culture Add" matters a lot more than "Culture Fit" - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 

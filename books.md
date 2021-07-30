@@ -1,5 +1,5 @@
 ---
-description: "Legend: \U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U0001F52D Tool, \U0001F4DA Article/Book"
+description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U0001F52D Tool, \U0001F4DA Article/Book"
 ---
 
 # Building Startups
@@ -13,4 +13,6 @@ description: "Legend: \U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Mem
 📚 [Hooked](https://www.goodreads.com/book/show/22668729-hooked) dissects the techniques of habit forming and explains in great detail how to build products that get people ... well, hooked.
 
 📚 [Traction](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369) showcases frameworks and tactics to do what most startups fail at: Spend at least as much time on understanding customers and adapting to their needs as on product development.
+
+
 

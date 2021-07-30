@@ -29,7 +29,7 @@ This is a little framework somebody came up with to solve specific types of prob
 * [Communication](communication.md)
 * [Management](management.md)
 * [Building Startups](books.md)
-* [Learning and Feedback](learning-and-feedback.md)
+* [Learning and Feedback]()
 * [Tech & Product Management](tech-management.md)
 * [Tiny Tool Hacks](tiny-hacks.md)
 * [Life](being.md)
