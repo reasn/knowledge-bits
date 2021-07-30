@@ -4,7 +4,9 @@
 
 ## **What is this about?**
 
-This is a collection of inspirational bits of knowledge, more or less properly categorized. I hope you find it useful!
+It's a collection bits of knowledge that I encountered over the years.
+
+In creating it I strive for remembering and sharing inspiration, not comprehensiveness. I hope you find it useful!
 
 ## **Legend**
 
@@ -24,12 +26,16 @@ This is a catch-phrase that makes it easy to convey a complex meaning in an easy
 
 This is a little framework somebody came up with to solve specific types of problems. It's what you learn from coworkers, in trainings to make your life easier. It can be a type of chart, a way of structuring something or a small piece of software.
 
+### 📚 Article/Book
+
+This, surprisingly, denotes an article or a book.
+
 ## Content
 
 * [Communication](communication.md)
 * [Management](management.md)
 * [Building Startups](books.md)
-* [Learning and Feedback](learning-and-feedback.md)
+* [Learning and Feedback]()
 * [Tech & Product Management](tech-management.md)
 * [Tiny Tool Hacks](tiny-hacks.md)
 * [Life](being.md)
