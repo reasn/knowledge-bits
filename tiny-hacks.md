@@ -4,7 +4,7 @@ description: >-
   time every day
 ---
 
-# Tiny Tool Hacks
+# Tiny Hacks
 
 #### 👾 Toolbar bookmarks to create new documents in drive
 

@@ -1,8 +1,6 @@
----
-description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U0001F52D Tool, \U0001F4DA Article/Book"
----
-
 # Communication
+
+**Legend:** 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool
 
 ### General
 
@@ -29,8 +27,6 @@ description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U000
 🐾 1. Tell me what you are going to tell me 2. Tell me 3. Tell me what you told me - unknown, learned from [Lennart Telwest](https://www.linkedin.com/in/lennart-telwest/)
 
 🐾 Design and optimize your presentation for the 3 things listeners will tell their peers when talking about it. Keep these questions in mind: What will peers think? What could go wrong? What are the opportunities? - [Renn Vara](https://snpnet.com/)
-
-🐾 Immediately debrief after a presentation: What went well, what didn't? - [Meri Williams](https://vimeo.com/99813968)
 
 ### Being interviewed for a job
 
