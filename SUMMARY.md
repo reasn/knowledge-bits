@@ -5,7 +5,7 @@
 * [Management](management.md)
 * [Building Startups](books.md)
 * [Tech & Product Management](tech-management.md)
-* [Hiring Processes](hiring-processes.md)
+* [Hiring & Being Hired](hiring-processes.md)
 * [Tiny Tool Hacks](tiny-hacks.md)
 * [Life](being.md)
 

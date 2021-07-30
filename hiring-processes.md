@@ -2,7 +2,7 @@
 description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U0001F52D Tool, \U0001F4DA Article/Book"
 ---
 
-# Hiring Processes
+# Hiring & Being Hired
 
 ### Hiring someone
 

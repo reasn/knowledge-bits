@@ -35,8 +35,8 @@ This, surprisingly, denotes an article or a book.
 * [Communication](communication.md)
 * [Management](management.md)
 * [Building Startups](books.md)
-* [Learning and Feedback]()
 * [Tech & Product Management](tech-management.md)
+* [Hiring & Being Hired](hiring-processes.md)
 * [Tiny Tool Hacks](tiny-hacks.md)
 * [Life](being.md)
 
