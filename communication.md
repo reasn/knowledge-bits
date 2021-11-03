@@ -1,14 +1,14 @@
 ---
-description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U0001F52D Tool, \U0001F4DA Article/Book"
+description: 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool, 📚 Article/Book
 ---
 
 # Communication
 
 ### General
 
-🐾 Actually listening \(almost nobody is good at it\) - [Various \(excellent article on WikiHow\)](https://www.wikihow.com/Listen)
+🐾 Actually listening (almost nobody is good at it) - [Various (excellent article on WikiHow)](https://www.wikihow.com/Listen)
 
-🐾 The Five Whys - [Sakichi Toyoda](https://en.wikipedia.org/wiki/5_Whys)
+🐾 The Five Whys - [Sakichi Toyoda](https://en.wikipedia.org/wiki/5\_Whys)
 
 😺 Fire and Forget: Delegated work has to be executed or reported back on by the assignee. The goal is to kill any need to track progress and create full trust into assignee. - [Stefan Richter](https://www.linkedin.com/in/smartrevolution)
 
@@ -16,44 +16,27 @@ description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U000
 
 💡 Replacing "but" with "and" doesn't depreciate what's before the "and". - not attributable
 
+🐾 The 10-second rule: When a conversation's temperature start to rise, add ample breaks to allow yourself and others to structure thoughts and make sure everybody feels heard. - [Jason Aton](https://www.inc.com/jason-aten/how-10-second-rule-can-dramatically-change-your-conversations-make-you-a-better-leader.html)
+
 ### Managing knowledge
 
-🐾 Discussions should happen in artifacts: Alignment is best created by collaboratively working on a single shared document. - Alexander Thiel
-
-### First contact
-
-🐾 E.g. when interviewed for a Job: Let me tell you what I know and you tell me how accurate it is. Present what you thoroughly prepared for an hour, anticipate the companies strategy. - unknown application at Wunder Mobility.
+🐾 Document discussion can often be sped up by noting and aligning on what a section wants to get across before formulating paragraphs - Alexander Thiel
 
 ### Presenting something
 
 🐾 1. Tell me what you are going to tell me 2. Tell me 3. Tell me what you told me - unknown, learned from [Lennart Telwest](https://www.linkedin.com/in/lennart-telwest/)
 
-🐾 Design and optimize your presentation for the 3 things listeners will tell their peers when talking about it. Keep these questions in mind: What will peers think? What could go wrong? What are the opportunities? - [Renn Vara](https://snpnet.com/)
+🐾 Design and optimize your presentation for the 3 things listeners will tell their peers when talking about it. Keep these questions in mind: What will peers think? What could go wrong? What are the opportunities? - [Renn Vara](https://snpnet.com)
 
 🐾 Immediately debrief after a presentation: What went well, what didn't? - [Meri Williams](https://vimeo.com/99813968)
 
-### Being interviewed for a job
-
-🐾 Ask "what would you add" / "what was missing in my response" after responding to factual questions. - Various interviews / Alexander Thiel
-
-🐾 Ask whether your response answered the question. - Various interviews / Alexander Thiel
-
-🐾 Take notes. It allows you to learn faster and it shows that you care - Various interviews / [Lennart Weber](https://www.linkedin.com/in/lennart-weber-a67a3a63/)
-
-🐾 When gettting feedback after an interview or assessment center: Don't defend yourself. Their opinion is made up, your only making it worse. Take notes, ask for clarifications and smile. - Alexander Thiel
-
-🐾 When being interviewed, ask \(fitting\) personal questions to destroy the wall and get on eye level. - Various interviews / Alexander Thiel
-
-🐾 Great question to dig deeper: What is each top managers worst weakness and greatest strength? - [Kari Penttilä](https://www.linkedin.com/in/kari-penttil%C3%A4-0815a/)
-
-### Sales conversation
+### Sales Conversations
 
 🐾  Catnip: A easy-to-remember way of quickly assessing relevance in initial sales conversations - [Hieu Le](https://www.linkedin.com/in/hieumle)
 
 * **C**ause: Why are they in pain/talking to me?
 * **A**uthority:  What kind of purchasing authority do they have? How are they involved in the cash flow management process?
 * **T**ools: What tools are they using to figure out what their cash position is?
-* **N**ickel: What \(range\) is their budget?
+* **N**ickel: What (range) is their budget?
 * **I**mplementation: Assuming that our tool can do x, y, and z, how quickly can we decide? How quickly can we onboard?
 * **P**rocess: what is their buying process?
-
