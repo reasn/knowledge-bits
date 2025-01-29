@@ -1,10 +1,12 @@
 ---
-description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U0001F52D Tool, \U0001F4DA Article/Book"
+description: 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool, 📚 Article/Book
 ---
 
 # Hiring & Being Hired
 
 ### Hiring someone
+
+🐾 Hire up! Or as Steve Jobs used to say: A players hire A players, and B players hire C players. The most important service you can do yourself, your team, and your company is to hire people who blow you away.
 
 💡 "Culture Add" matters a lot more than "Culture Fit" - [Meri Williams](https://www.slideshare.net/meriwilliams/5-things-i-wish-id-known-sooner-about-scaling-teams-culture-at-turing-fest)
 
@@ -24,7 +26,6 @@ description: "\U0001F43E Pattern, \U0001F4A1 Realization, \U0001F63A Meme, \U000
 
 🐾 When gettting feedback after an interview or assessment center: Don't defend yourself. Their opinion is made up, your only making it worse. Take notes, ask for clarifications and smile. - Alexander Thiel
 
-🐾 When being interviewed, ask \(fitting\) personal questions to destroy the wall and get on eye level. - Various interviews / Alexander Thiel
+🐾 When being interviewed, ask (fitting) personal questions to destroy the wall and get on eye level. - Various interviews / Alexander Thiel
 
 🐾 Great question to dig deeper: What is each top managers worst weakness and greatest strength? - [Kari Penttilä](https://www.linkedin.com/in/kari-penttil%C3%A4-0815a/)
-

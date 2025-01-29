@@ -33,10 +33,9 @@ This, surprisingly, denotes an article or a book.
 ## Content
 
 * [Communication](communication.md)
-* [Management](management.md)
+* [Management](leadership.md)
 * [Building Startups](books.md)
 * [Tech & Product Management](tech-management.md)
 * [Hiring & Being Hired](hiring-processes.md)
 * [Tiny Tool Hacks](tiny-hacks.md)
 * [Life](being.md)
-
