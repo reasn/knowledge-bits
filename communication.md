@@ -12,15 +12,17 @@ description: 🐾 Pattern, 💡 Realization, 😺 Meme, 🔭 Tool, 📚 Article/
 
 😺 Fire and Forget: Delegated work has to be executed or reported back on by the assignee. The goal is to kill any need to track progress and create full trust into assignee. - [Stefan Richter](https://www.linkedin.com/in/smartrevolution)
 
-💡 It's only rational to complain about the environment if there's maintained rejection of a reasonable initiative. - Alexander Thiel
-
 💡 Replacing "but" with "and" doesn't depreciate what's before the "and". - not attributable
 
 🐾 The 10-second rule: When a conversation's temperature start to rise, add ample breaks to allow yourself and others to structure thoughts and make sure everybody feels heard. - [Jason Aton](https://www.inc.com/jason-aten/how-10-second-rule-can-dramatically-change-your-conversations-make-you-a-better-leader.html)
 
+🐾 [Radical Candor](https://www.youtube.com/watch?v=YLBDkz0TwLM): Care Personally and challenge directly. Watch or read up on it - it's insanely powerful.
+
+### Reducing complexity
+
 🐾  Provide context: Make your communication immediately actionable and remove the need for back-and-forth clarification questions. This turns your coworkers into superheroes.
 
-🐾 [Radical Candor](https://www.youtube.com/watch?v=YLBDkz0TwLM): Care Personally and challenge directly. Watch or read up on it - it's insanely powerful.
+💡 If something looks simple on the surface, arguing for its complexity requires a much firmer understanding than does realizing that complexity - Alexander Thiel
 
 ### Managing knowledge
 
