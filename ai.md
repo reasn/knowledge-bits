@@ -1,3 +1,10 @@
+---
+description: >-
+  This is a snapshot of papers, predictions, and thoughts. It's random and aims
+  at illustrating what a fundamental shift in human society the AI revolution
+  represents.
+---
+
 # AI
 
 ## I. Technical background
