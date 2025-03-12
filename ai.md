@@ -16,7 +16,7 @@ description: >-
 
 ## II: Impact on the world
 
-* [LinkedIn post](https://www.linkedin.com/posts/henrythe9th_the-information-just-featured-my-controversial-activity-7302812899524194304-1Fcm/) by Henry ShiHenry Shi on the impact of AI on VC
+* [LinkedIn post](https://www.linkedin.com/posts/henrythe9th_the-information-just-featured-my-controversial-activity-7302812899524194304-1Fcm/) by Henry Shi on the impact of AI on VC
 * [Benedict Evans - AI eats the world](https://www.ben-evans.com/presentations) (November 2024) ★
 * [McKinsey: The economic potential of generative AI](https://www.mckinsey.de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-06-14%20mgi%20genai%20report%2023/the-economic-potential-of-generative-ai-the-next-productivity-frontier-vf.pdf) (2023!)
 * [McKinsey - The state of AI in early 2024: Gen AI adoption spikes and starts to generate value](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) (Max 2024)
