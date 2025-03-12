@@ -20,7 +20,7 @@ description: >-
 * [Benedict Evans - AI eats the world](https://www.ben-evans.com/presentations) (November 2024) ★
 * [McKinsey: The economic potential of generative AI](https://www.mckinsey.de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2023/2023-06-14%20mgi%20genai%20report%2023/the-economic-potential-of-generative-ai-the-next-productivity-frontier-vf.pdf) (2023!)
 * [McKinsey - The state of AI in early 2024: Gen AI adoption spikes and starts to generate value](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) (Max 2024)
-* My (Alex) guesstimate is that most of today's software engineering jobs will be redundant at least in startups by EoY 2026.
+* My (Alex) guesstimate is that most of today's software engineering jobs will be redundant in startups by EoY 2026.
 * "Programming at the beginning of 2025 and at the end of 2025 will be very different." - [Sam Altman at TU Berlin in February 2025](https://www.tu.berlin/en/news/videos/openai-ceo-sam-altman-at-tu-berlin)
 
 ## III. Self-driving startups
