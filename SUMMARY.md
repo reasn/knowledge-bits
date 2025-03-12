@@ -14,3 +14,7 @@
 ## Articles
 
 * [Measuring Engineering Performance](articles/measuring-engineering-performance.md)
+
+***
+
+* [AI](ai.md)
