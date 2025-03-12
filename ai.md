@@ -32,7 +32,7 @@ description: >-
 ## IV. Foot for thought: AI trends and patterns
 
 {% hint style="info" %}
-The advent of AI has elements of a singularity because a lot of quantitative and qualitative changes are coming and they're mutually reinforcing. The purpose of the following is just to inspire thought, it's by no means exhaustive.
+The AI revolution has elements of a singularity: quantitatively and qualitatively considerable changes are mutually reinforcing, making higher-order predictions exceptionally hard. Also, the following list isn't nearly exhaustive
 {% endhint %}
 
 ### Anomaly Detection
