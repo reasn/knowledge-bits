@@ -11,8 +11,8 @@ description: >-
 
 1. Conceptually understand backpropagation and transformer models ★
 2. Figure out why increased intelligence/quality is an emergent phenomenon of increasing training data set size ★
-3. If you have the time, read (some of) these [27 Foundational research papers](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) shared by [Ilya Sutskever](https://x.com/ilyasut) (Cofounder OpenAI) with John Carmack: "If you really learn all of these, you’ll know 90% of what matters today."
-4. If you want to read a book: [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
+3. [27 Foundational research papers](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE) shared by [Ilya Sutskever](https://x.com/ilyasut) (Cofounder OpenAI) with John Carmack: "If you really learn all of these, you’ll know 90% of what matters today."
+4. The book [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
 
 ## II: Impact on the world
 
