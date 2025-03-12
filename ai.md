@@ -1,8 +1,8 @@
 ---
 description: >-
-  This is a snapshot of papers, predictions, and thoughts. It's subjective, a
-  little random, and aims at illustrating what a fundamental shift in human
-  society the AI revolution represents.
+  A snapshot of papers, predictions, and thoughts, subjective and a bit random.
+  The goal is not a broad overview, but to help start your journey, provoke
+  thought, and illustrate how world-changing AI is
 ---
 
 # AI
