@@ -2,7 +2,7 @@
 description: >-
   A snapshot of papers, predictions, and thoughts, subjective and a bit random.
   The goal is not a broad overview, but to help start your journey, provoke
-  thought, and illustrate how world-changing AI is
+  thought, and show how AI will change everything.
 ---
 
 # AI
